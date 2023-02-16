@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/Scenes/cr\xE9ditos.unity"
     guid: f919fabaa1d55d84e85020e0bf2adf57
+  - enabled: 1
+    path: Assets/Scenes/fases.unity
+    guid: 29cea954af9de1c46b0cca99547ff02d
   m_configObjects: {}

@@ -5,12 +5,19 @@ using UnityEngine.SceneManagement;
 
 public class GerenciaBotoes : MonoBehaviour
 {
-   public void Jogar() { }
     public void Creditos() {
         SceneManager.LoadScene(1);
     }
     public void Voltar()
     {
         SceneManager.LoadScene(0);
+    }
+    public void Menu()
+    {
+        SceneManager.LoadScene(0);
+    }
+    public void Jogar()
+    {
+        SceneManager.LoadScene(2);
     }
 }
